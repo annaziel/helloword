@@ -1,2 +1,2 @@
 # helloword
-My first hellowword repository
+My first helloword repository
